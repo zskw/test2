@@ -63,8 +63,43 @@
 }
 /*محمدرضا*/
 /*زهرا*/
-
-
+.center_gallery_left{
+    height: 525px;
+    width: 100%;
+}
+.center_gallery_right{
+    width:100% ;
+    height:250px;
+}
+.center_gallery_purple
+{
+    background-color: #7f44c0;
+    height: 250px;
+}
+.btn_read_size{
+    width: 22%;
+}
+.card_center{
+    background-color:#f2f2f2;
+}
+.card_center_top{
+    background-color: #f2f2f2;
+    padding:30px 90px ;
+}
+.card_center_image_left{
+    width:100%;
+    object-fit: cover;
+}
+.card_center_image_right{
+    width: 100%;
+    height: 597px;
+    object-fit: cover;
+}
+.btn_read_card{
+  
+    background-color: #7f44c0;
+ width: 22%;
+}
 /*زهرا*/
 /*مهسا*/
 .m-row{
